@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Kdam+Thmor+Pro&display=swap');
+
+p {
+    font-family: 'Joan', serif;
+}
+
+h1 {
+    font-family: 'Joan', serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: rgb(165, 55, 245);
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.bannerImg{
+    background-image: url('../img/banner.jpg');
+    height: 300px;
+    background-size: cover;
+}
+h2{
+    font-family: 'Joan', serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    background-color: rgb(195, 125, 245);
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.footer{
+    background-color: rgb(230, 200, 245);
+}
